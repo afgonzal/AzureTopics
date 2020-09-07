@@ -1,0 +1,9 @@
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\bin\Debug\netcoreapp3.1\Contoso.Sales.Business.deps.json
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\bin\Debug\netcoreapp3.1\Contoso.Sales.Business.dll
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.csprojAssemblyReference.cache
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.AssemblyInfoInputs.cache
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.AssemblyInfo.cs
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\bin\Debug\netcoreapp3.1\Contoso.Sales.Business.pdb
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.csproj.CoreCompileInputs.cache
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.dll
+C:\OA\Cursos\Contoso.Sales\Contoso.Sales.Business\obj\Debug\netcoreapp3.1\Contoso.Sales.Business.pdb
